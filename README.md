@@ -29,3 +29,24 @@ dosya içeriği şu şekildedir:
 |hafsa| حَفصه|183|
 |...| ...|...|
 |...| ...|...|
+
+
+```osmanlicaimla.com``` adresinde bulunan osmanlıca kelimeleri çekerek ```turkce_osmanlicakelimeler.csv```  isimli dosyaya kaydettik.
+Bu dosya ```17000```'den fazla kelime ve osmanlica karşılığını içermektedir. dosya içeriği şu şekildedir:
+
+
+|Osmalıca_yazılış|Türkçe_yazılış|
+| ------ | ------ |
+|آ,A|
+|اعدا|â'dâ|
+|اعداد|â'dâd|
+|اعما|â'mâ|
+|اعظم|a'zam|
+|آب,âb|
+|آبدار|âb|
+|آباء|âbâ|
+|آباد|âbâd|
+|آبادان|âbâdân|
+|...| ...|...|
+|...| ...|...|
+
