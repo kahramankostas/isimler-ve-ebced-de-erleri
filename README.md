@@ -37,12 +37,12 @@ Bu dosya ```17000```'den fazla kelime ve osmanlica karşılığını içermekted
 
 |Osmalıca_yazılış|Türkçe_yazılış|
 | ------ | ------ |
-|آ,A|
+|آ|A|
 |اعدا|â'dâ|
 |اعداد|â'dâd|
 |اعما|â'mâ|
 |اعظم|a'zam|
-|آب,âb|
+|آب|âb|
 |آبدار|âb|
 |آباء|âbâ|
 |آباد|âbâd|
